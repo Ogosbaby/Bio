@@ -32,11 +32,13 @@
         background-color: #245e4a;
         color: #ffffff;
         border: none;
+        transition: 0.3s;
     }
 button:hover{
     background-color: #48cea2;
     border: none;
     color: #245e4a;
+    
 }
 @media screen and (max-width: 768px) {
     body{
